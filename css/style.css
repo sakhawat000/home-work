@@ -1,0 +1,22 @@
+nav li{
+    display: inline;
+  
+    background-color:whitesmoke;
+   
+    list-style: none;
+    text-align: center;
+    color: black;
+}
+nav li a{
+    text-decoration: none;
+    
+}
+nav ul{
+
+    text-align: center;
+}
+nav li:hover{
+color: tomato;
+ background-color: turquoise;
+ transform: scale(1.5px);
+}
